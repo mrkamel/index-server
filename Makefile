@@ -1,5 +1,5 @@
 
-BIN = query_server
+BIN = index_server
 CC = gcc
 
 project: tmp/main.o tmp/string.o tmp/array.o tmp/hash.o tmp/index.o tmp/and_combination.o tmp/query.o tmp/socket.o tmp/stdin.o tmp/request.o
